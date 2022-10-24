@@ -1,0 +1,2 @@
+# POTENCIASSINFUNCIONNUEVO
+Created with CodeSandbox
